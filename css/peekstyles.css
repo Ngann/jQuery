@@ -1,4 +1,4 @@
-.walrus-showing {
+#initially-showing {
   display: none;
 }
 
@@ -9,4 +9,9 @@
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+#fadetoggle {
+  font-weight: bolder;
+  font-size: 20pt;
 }
